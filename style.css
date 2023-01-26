@@ -1,92 +1,44 @@
 #background {
-    background-color:rgba(57, 1, 26, 0.827);
-    opacity: 50;
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
 }
-
+body {
+    background-image: url("lappi.png");
+    background-color: #cccccc;
+   }
+   
 #box-1 {
     position:fixed;
-    top: 10px;
+    top: 50px;
     left: 10px;
     text-align: center;
     position: fixed;
-    color: black;
-    background-color:rgb(213, 163, 98);
-    opacity: 100%;
-    width: 200px;
-    height: 690px;
+    color: white;
+    background-color:black;
+    opacity: 50%;
+    width: 300px;
+    height: 600px;
     border: 2px black solid;
     border-radius: 10px;
     float:right;
 }
-
-#box-2 {
-    left:12.5px;
+#box-right {
     position:fixed;
-    text-align:center;  
-    color: bisque;
-    background-color:burlywood;
-    opacity: 100%;
-    width: 195.5px;
-    height: 100px;
-    border: 2px black solid;
-    float:right;
-    
-} 
-
-#box-3 {
-    left:12.5px;
-    top:167px;
-    position:fixed;
-    text-align:center;
-    color: green;
-    background-color: rgb(255, 237, 204);
-    opacity: 100%;
-    width: 195.5px;
-    height: 100px;
-    border: 2px black solid;
-    float:right;
-}
-#box-4 {
-    left:12.5px;
-    top:272px;
-    position:fixed;
-    text-align:center;
-    color: black;
-    background-color:paleturquoise;
-    opacity: 100%;
-    width: 195.5px;
-    height: 180px;
-    border: 2px black solid;
-    float:right;
-}
-#box-5 {
-    left:12.5px;
-    top:457px;
-    position:fixed;
-    text-align:center;
-    color: rgb(0, 55, 255);
-    background-color:cadetblue;
-    opacity: 100%;
-    width: 195.5px;
-    height: 220px;
-    border: 2px black solid;
-    float:right;
-}
-#box-right{
-    left: 216px;
-    top: 10px;
-    position:fixed;
-    text-align:center;
-    color: royalblue;
-    background-color:white;
-    opacity: 100%;
-    width: 800px;
-    height: 650px;
+    top: 50px;
+    left:880px;
+    text-align: center;
+    position: fixed;
+    color: white;
+    background-color:black;
+    opacity: 50%;
+    width: 600px;
+    height: 400px;
     border: 2px black solid;
     border-radius: 10px;
     float:right;
 }
+#box-top{
+position: fixed;
 
+}
