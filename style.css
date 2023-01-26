@@ -13,9 +13,9 @@
     text-align: center;
     position: fixed;
     color: black;
-    background-color:burlywood;
+    background-color:rgb(213, 163, 98);
     opacity: 100%;
-    width: 100px;
+    width: 200px;
     height: 690px;
     border: 2px black solid;
     border-radius: 10px;
@@ -26,10 +26,10 @@
     left:12.5px;
     position:fixed;
     text-align:center;  
-    color: blue;
-    background-color:darksalmon;
+    color: bisque;
+    background-color:burlywood;
     opacity: 100%;
-    width: 95.5px;
+    width: 195.5px;
     height: 100px;
     border: 2px black solid;
     float:right;
@@ -42,10 +42,51 @@
     position:fixed;
     text-align:center;
     color: green;
-    background-color:white;
+    background-color: rgb(255, 237, 204);
     opacity: 100%;
-    width: 95.5px;
+    width: 195.5px;
     height: 100px;
     border: 2px black solid;
     float:right;
 }
+#box-4 {
+    left:12.5px;
+    top:272px;
+    position:fixed;
+    text-align:center;
+    color: black;
+    background-color:paleturquoise;
+    opacity: 100%;
+    width: 195.5px;
+    height: 180px;
+    border: 2px black solid;
+    float:right;
+}
+#box-5 {
+    left:12.5px;
+    top:457px;
+    position:fixed;
+    text-align:center;
+    color: rgb(0, 55, 255);
+    background-color:cadetblue;
+    opacity: 100%;
+    width: 195.5px;
+    height: 220px;
+    border: 2px black solid;
+    float:right;
+}
+#box-right{
+    left: 216px;
+    top: 10px;
+    position:fixed;
+    text-align:center;
+    color: royalblue;
+    background-color:white;
+    opacity: 100%;
+    width: 800px;
+    height: 650px;
+    border: 2px black solid;
+    border-radius: 10px;
+    float:right;
+}
+
