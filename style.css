@@ -1,4 +1,8 @@
+
 body {
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
     background-image: url("lappi.png");
     background-color: #cccccc;
    }
@@ -28,7 +32,7 @@ body {
     background-color:black;
     opacity: 50%;
     width: 600px;
-    height: 400px;
+    height: 00px;
     border: 2px black solid;
     border-radius: 10px;
     float:right;
