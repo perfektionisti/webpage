@@ -1,4 +1,3 @@
-
 body {
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -12,16 +11,15 @@ body {
     justify-content: space-between; /* distribute the links evenly across the navbar */
     font-size: 35px;
 } 
-#box-1 {
+#aboutsection {
     position:fixed;
     top: 50px;
-    left: 10px;
     text-align: center;
     position: fixed;
     color: white;
     background-color:black;
     opacity: 50%;
-    width: 300px;
+    width: 600px;
     height: 600px;
     border: 2px black solid;
     border-radius: 10px;
